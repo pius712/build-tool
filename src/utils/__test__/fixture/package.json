@@ -1,0 +1,16 @@
+{
+  "name": "test-fixture",
+  "author": "pius712",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test fixture file"
+  },
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
